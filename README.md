@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Divine Epie Ngolesueh👋
 
-<!--
-**ngolesueh/ngolesueh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring *SOC ANALYST* studying for *CompTIA Security+ (SY0-701) and CySA+ (CSO-003)*
+🌱 I learn in public — every repo here is something I built and documented while learning.
+📍 [City, Country] · Open to entry-level roles
 
-Here are some ideas to get you started:
+## 🔧 What I'm learning
+- [Network security · SIEM · incident response · ...]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured projects
+- *[Home SOC Lab](link)* — built & documented an enterprise-style SOC (pfSense, Wazuh, Splunk).
+- *[Project 2](link)* — short outcome-focused description.
+
+## 📫 Reach me
+- LinkedIn: [your-link]
+- Email: [your.professional@email.com]
