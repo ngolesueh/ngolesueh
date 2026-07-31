@@ -12,5 +12,5 @@
 - *[Project 2](link)* — short outcome-focused description.
 
 ## 📫 Reach me
-- LinkedIn: [your-link]
-- Email: [your.professional@email.com]
+- LinkedIn: www.linkedin.com/in/dngol-esueh
+- Email: de.ngolesueh@gmail.com
