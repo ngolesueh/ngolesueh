@@ -8,6 +8,7 @@
 - [Network security · SIEM · incident response · ...]
 
 ## 📂 Featured projects
+- *[Vulnerability Management Program Implementation Project](https://github.com/ngolesueh/Cyber-Range-Mentorship-Program/blob/main/Vulnerability-Management-Project.md)*
 - *[Home SOC Lab](link)* — built & documented an enterprise-style SOC (pfSense, Wazuh, Splunk).
 - *[Project 2](link)* — short outcome-focused description.
 
