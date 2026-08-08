@@ -1,4 +1,4 @@
-# Hi, I'm Divine Epie Ngolesueh👋
+# <a href="https://www.linkedin.com/in/dngol-esueh">Divine Epie Ngolesueh</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 🎯 Aspiring *SOC ANALYST* studying for *CompTIA Security+ (SY0-701) and CySA+ (CSO-003)*
 🌱 I learn in public — every repo here is something I built and documented while learning.
