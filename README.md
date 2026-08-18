@@ -9,8 +9,11 @@
 
 ## 📂 Featured projects
 - *[Vulnerability Management Program Implementation Project](https://github.com/ngolesueh/Cyber-Range-Mentorship-Program)* - A complete Vulnerability Management Program Starting with Individual Projects and ending with a complete end-to-end project combining all the individual projects into one.
+  
 - *[Home SOC Lab](link)* — built & documented an enterprise-style SOC (pfSense, Wazuh, Splunk).
+  
 - *[Project 2](link)* — short outcome-focused description.
+  
 
 ## 📫 Reach me
 - LinkedIn: www.linkedin.com/in/dngol-esueh
