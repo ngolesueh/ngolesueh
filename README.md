@@ -8,7 +8,7 @@
 
 ---
 
-I'm **Divine**, a CompTIA Security+ certified Cybersecurity Analyst and Technical Lead with 5+ years of experience across SOC operations, vulnerability management, and secure cloud/product development.
+I'm **Divine**, a CompTIA Security+ certified Cybersecurity Analyst and Technical Lead with experience in SOC operations, vulnerability management, and secure cloud/product development.
 
 I'm currently building hands-on cybersecurity experience through the **Cyber Range Mentorship Program** — real vulnerability management and log-analysis projects executed end-to-end — while directing security architecture for five production web platforms as Technical Lead at eSmart Solutions LLC.
 
